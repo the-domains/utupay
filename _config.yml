@@ -1,0 +1,14 @@
+layout_spectrum: 0.13409621268510818
+typography_spectrum: 0.8112015014048666
+color:
+  brandStrength: 0.7519100657664239
+  lightness: 0.11266450420953333
+  saturation: 0.3880487438291311
+  rhythmicContrast: 0.5051557563710958
+  brandColors:
+    - '#292929'
+    - '#5B7876'
+    - '#8F9E8B'
+    - '#F2E6B6'
+    - '#412A22'
+name: utupay
